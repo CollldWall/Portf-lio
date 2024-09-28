@@ -123,7 +123,7 @@ section{
     gap: 1rem;
     flex-wrap: wrap;
     align-items: center;
-    min-height: 500px;
+    min-height: 400px;
 }
 
 .first-section > div{
